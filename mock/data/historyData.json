@@ -1,0 +1,449 @@
+{
+  "RM_PM": {
+    "data": {
+      "RM": [
+        {
+          "truckNumber": "B12345",
+          "gateEntryNo": 1231,
+          "truckCondition": "Ok",
+          "totalDeduction": 2,
+          "products": [
+            {
+              "title": "Green Chilly Big",
+              "isRejected": true,
+              "deduction": 2,
+              "input": {
+                "invoiceNo": "A12345",
+                "quantity": 2,
+                "vendorName": "test"
+              },
+              "inputFields": [
+                {
+                  "label": "Apperance and Colour",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "deduction": 2
+                },
+                {
+                  "label": "Apperance and Colour2",
+                  "value": 20,
+                  "deduction": 2
+                }
+              ]
+            },
+            {
+              "title": "Green Chilly Big1",
+              "input": {
+                "invoiceNo": "A12345",
+                "quantity": 2,
+                "vendorName": "test"
+              },
+              "inputFields": [
+                {
+                  "label": "Apperance and Colour",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                },
+                {
+                  "label": "Apperance and Colour2",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "truckNumber": "B12346",
+          "gateEntryNo": 123,
+          "truckCondition": "Ok",
+          "totalDeduction": 2,
+          "products": [
+            {
+              "title": "Green Chilly Big11",
+              "input": {
+                "invoiceNo": "A12345",
+                "quantity": 2,
+                "vendorName": "test"
+              },
+              "inputFields": [
+                {
+                  "label": "Apperance and Colour",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                },
+                {
+                  "label": "Apperance and Colour2",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                }
+              ]
+            },
+            {
+              "title": "Green Chilly Big",
+              "input": {
+                "invoiceNo": "A12345",
+                "quantity": 2,
+                "vendorName": "test"
+              },
+              "inputFields": [
+                {
+                  "label": "Apperance and Colour",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                },
+                {
+                  "label": "Apperance and Colour2",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "PM": [
+        {
+          "truckNumber": "C12345",
+          "gateEntryNo": 123,
+          "truckCondition": "Ok",
+          "totalDeduction": 2,
+          "products": [
+            {
+              "title": "Green Chilly Big2323",
+              "input": {
+                "invoiceNo": "A12345",
+                "quantity": 2,
+                "vendorName": "test"
+              },
+              "skus": [
+                {
+                  "sku": 36,
+                  "productType": "Export",
+                  "input": {
+                    "a_c": { "value": 1 },
+                    "a_c2": { "value": 1 }
+                  }
+                },
+                {
+                  "sku": 200,
+                  "productType": "Export",
+                  "input": {
+                    "a_c": { "value": 1 },
+                    "a_c2": { "value": 1 }
+                  }
+                }
+              ],
+              "skuList": [
+                {
+                  "id": 36,
+                  "inputFields": [
+                    {
+                      "label": "Apperance and Colour",
+                      "value": 20,
+                      "key": "a_c",
+                      "remark": "Remark Message",
+                      "remarkReason": "Quality",
+                      "isRejected": true,
+                      "deduction": 2
+                    },
+                    {
+                      "label": "Apperance and Colour2",
+                      "value": 20,
+                      "key": "a_c2",
+                      "isRejected": true,
+                      "deduction": 2
+                    }
+                  ],
+                  "label": "36"
+                },
+                {
+                  "id": 200,
+                  "inputFields": [
+                    {
+                      "label": "Apperance and Colour",
+                      "value": 20,
+                      "key": "a_c",
+                      "remark": "Remark Message",
+                      "remarkReason": "Quality",
+                      "isRejected": true,
+                      "deduction": 2
+                    },
+                    {
+                      "label": "Apperance and Colour2",
+                      "value": 20,
+                      "key": "a_c2",
+                      "isRejected": true,
+                      "deduction": 2
+                    }
+                  ],
+                  "label": "200"
+                }
+              ],
+              "inputFields": [
+                {
+                  "label": "Apperance and Colour",
+                  "value": 20,
+                  "remark": "Remark Message",
+                  "remarkReason": "Quality",
+                  "isRejected": true,
+                  "deduction": 2
+                },
+                {
+                  "label": "Apperance and Colour2",
+                  "value": 20,
+                  "isRejected": true,
+                  "deduction": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "error": null,
+    "loading": false
+  },
+  "IPQC_PRODUCT": {
+    "data": [
+      {
+        "title": "Aloo Bhujia",
+        "lines": [
+          {
+            "title": "LINE 09",
+            "items": [
+              {
+                "title": "Fryer",
+                "times": ["10:00", "14:00"],
+                "inputFields": [
+                  {
+                    "label": "Temperature",
+                    "unit": "°C",
+                    "lowerLimit": 177,
+                    "upperLimit": 185,
+                    "value": 180,
+                    "remark": "Remark Message",
+                    "remarkReason": "Quality",
+                    "key": "temperature",
+                    "times": ["10:00"]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "error": null,
+    "loading": false
+  },
+  "PACKAGING": {
+    "data": [
+      {
+        "title": "A1",
+        "machines": [
+          {
+            "title": "2154",
+            "products": [
+              {
+                "number": "01",
+                "product": "Navratan",
+                "sku": 24,
+                "type": "Export",
+                "exportTo": "test",
+                "poNumber": 124,
+                "top": [
+                  { "label": "Type", "value": "Export" },
+                  { "label": "SKU", "value": 24 },
+                  { "label": "Export to", "value": "USA" },
+                  { "label": "PO Number", "value": "12456" }
+                ],
+                "certifications": [
+                  { "label": "Batch No.", "value": "123" },
+                  { "label": "Mfg date", "value": "23/11/23" },
+                  { "label": "Vendor Name", "value": "A123" },
+                  { "label": "Best Before", "value": "12 months" }
+                ],
+                "certificationsInputFields": [
+                  {
+                    "label": "Nitorgen",
+                    "unit": "%",
+                    "lowerLimit": 95,
+                    "upperLimit": 98,
+                    "value": "96",
+                    "key": "nitrogen"
+                  },
+                  {
+                    "label": "Air Fill",
+                    "unit": "mm",
+                    "lowerLimit": 133,
+                    "upperLimit": 145,
+                    "value": 120,
+                    "remark": "Remark Message",
+                    "key": "airFill"
+                  },
+                  {
+                    "label": "Printing",
+                    "subLabel": "",
+                    "unit": "",
+                    "value": "Ok",
+                    "remark": "Remark Message",
+                    "acceptedValue": "Ok",
+                    "key": "printing"
+                  }
+                ],
+                "leakageChecks": [
+                  {
+                    "leakageFields": [
+                      {
+                        "label": "Fe",
+                        "value": "Ok",
+                        "key": "fe"
+                      },
+                      {
+                        "label": "NFe",
+                        "value": "Ok",
+                        "key": "nfe"
+                      },
+                      {
+                        "label": "SS",
+                        "value": "Not Ok",
+                        "remark": "Remark Message",
+                        "key": "ss"
+                      }
+                    ],
+                    "leakageData": {
+                      "packetsChecked": 12,
+                      "leakedPackedCount": 3,
+                      "remark": "Remark Message",
+                      "leakageTypes": [
+                        {
+                          "count": 2,
+                          "leakageType": "test"
+                        },
+                        {
+                          "count": 1,
+                          "leakageType": "test2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "A2",
+        "machines": [
+          {
+            "title": "2154",
+            "products": [
+              {
+                "number": "01",
+                "product": "Navratan",
+                "sku": 24,
+                "type": "Export",
+                "exportTo": "test",
+                "poNumber": 124,
+                "certifications": [
+                  { "label": "Batch No.", "value": "123" },
+                  { "Mfg date": "23/11/23" },
+                  { "label": "Vendor Name", "value": "A123" },
+                  { "Best Before": "12 months" }
+                ],
+                "certificationsInputFields": [
+                  {
+                    "label": "Nitorgen",
+                    "unit": "%",
+                    "lowerLimit": 95,
+                    "upperLimit": 98,
+                    "value": "96",
+                    "key": "nitrogen"
+                  },
+                  {
+                    "label": "Air Fill",
+                    "unit": "mm",
+                    "lowerLimit": 133,
+                    "upperLimit": 145,
+                    "value": 120,
+                    "remark": "Remark Message",
+                    "key": "airFill"
+                  },
+                  {
+                    "label": "Printing",
+                    "subLabel": "",
+                    "unit": "",
+                    "value": "Ok",
+                    "remark": "Remark Message",
+                    "acceptedValue": "Ok",
+                    "key": "printing"
+                  }
+                ],
+                "leakageChecks": [
+                  {
+                    "leakageFields": [
+                      {
+                        "label": "Fe",
+                        "value": "Ok",
+                        "key": "fe"
+                      },
+                      {
+                        "label": "NFe",
+                        "value": "Ok",
+                        "key": "nfe"
+                      },
+                      {
+                        "label": "SS",
+                        "value": "Not Ok",
+                        "remark": "Remark Message",
+                        "key": "ss"
+                      }
+                    ],
+                    "leakageData": {
+                      "packetsChecked": 12,
+                      "leakedPackedCount": 3,
+                      "remark": "Remark Message",
+                      "leakageTypes": [
+                        {
+                          "count": 2,
+                          "leakageType": "test"
+                        },
+                        {
+                          "count": 1,
+                          "leakageType": "test2"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "error": null,
+    "loading": false
+  }
+}

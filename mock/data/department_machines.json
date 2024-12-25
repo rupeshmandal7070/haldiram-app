@@ -1,0 +1,1174 @@
+[
+  {
+    "id": 1,
+    "name": "A1",
+    "machines": [
+      {
+        "id": 1,
+        "name": "130 GP",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "2154",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "2123",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "2132",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "2129",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "2122",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "2385",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "2118",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "2117",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "2174",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "2173",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "2172",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "2171",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "2170",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "2169",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "2168",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "2167",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "2166",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "2165",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "2133",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "2134",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "2130",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "2131",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "2126",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "2125",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "2115",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "2124",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 180,
+            "name": "Moong Dal",
+            "skus": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "A2",
+    "machines": [
+      {
+        "id": 28,
+        "name": "2246",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "2245",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "2243",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "2244",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "2241",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "2242",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "2239",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "2240",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "2237",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "2238",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "2235",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "2236",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "2194",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "2195",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "2192",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "2193",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "2190",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "2191",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "2258 GP",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "2259 GP",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "2260 GP",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "2262 GP",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "2251",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "2252",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "2253",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "2254",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "2188",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "2189",
+        "products": [
+          {
+            "id": 168,
+            "name": "NAVRATTAN",
+            "skus": []
+          },
+          {
+            "id": 169,
+            "name": "KAJU MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 170,
+            "name": "KASHMIRI MIXTURE",
+            "skus": []
+          },
+          {
+            "id": 171,
+            "name": "SHAHI MIXTURE",
+            "skus": []
+          }
+        ]
+      }
+    ]
+  }
+]

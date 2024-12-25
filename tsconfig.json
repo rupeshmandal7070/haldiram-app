@@ -1,0 +1,45 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "app/(app)/index.jsx",
+    "components/ScreenWrapper.jsx",
+    "app/(app)/(product)/index.jsx",
+    "components/TextInput.jsx",
+    "app/(app)/(rmpm)/index.jsx",
+    "app/(app)/(rmpm)/history.jsx",
+    "app/(app)/(rmpm)/entry.jsx",
+    "components/rmpm/AddProductModal.jsx",
+    "components/rm/AddTruck/AddTruckModal.jsx",
+    "components/rm/ProductEntryCard/index.jsx",
+    "components/rm/RMEntryTab/index.jsx",
+    "components/rm/RMEntryTab/RMCompleted.jsx",
+    "components/rm/GateEntryCard/index.jsx",
+    "components/Tabs.jsx",
+    "components/TruckTabs.Jsx",
+    "components/DropDown.jsx",
+    "components/MultiSelectDropDown.jsx",
+    "app/sign-in.jsx",
+    "components/pm/AddTruck/index.jsx",
+    "components/pm/AddTruck/TruckEntry.jsx",
+    "components/rm/GateEntryCard/GateEntryCompletedCard.jsx",
+    "components/rm/ProductEntryCard/ProductCard.jsx",
+    "components/rm/AddTruck/TruckEntry.jsx",
+    "components/EndShiftBottomSheet.jsx",
+    "components/pm/PMGateEntryCard/index.jsx",
+    "components/pm/PMProductEntryCard/index.jsx",
+    "components/pm/PMEntryTab/index.jsx",
+    "components/remark/RemarkModalOne.jsx"
+  ]
+}

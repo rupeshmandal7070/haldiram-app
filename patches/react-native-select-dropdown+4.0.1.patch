@@ -1,0 +1,35 @@
+diff --git a/node_modules/react-native-select-dropdown/index.d.ts b/node_modules/react-native-select-dropdown/index.d.ts
+index f5c89c4..0334a51 100644
+--- a/node_modules/react-native-select-dropdown/index.d.ts
++++ b/node_modules/react-native-select-dropdown/index.d.ts
+@@ -31,6 +31,7 @@ declare module 'react-native-select-dropdown' {
+      * disable dropdown
+      */
+     disabled?: boolean;
++    isMultiSelect?: boolean;
+     /**
+      * array of disabled items index
+      */
+diff --git a/node_modules/react-native-select-dropdown/src/SelectDropdown.js b/node_modules/react-native-select-dropdown/src/SelectDropdown.js
+index d114c06..1a2c9f8 100644
+--- a/node_modules/react-native-select-dropdown/src/SelectDropdown.js
++++ b/node_modules/react-native-select-dropdown/src/SelectDropdown.js
+@@ -12,6 +12,7 @@ import {findIndexInArr} from './helpers/findIndexInArr';
+ 
+ const SelectDropdown = (
+   {
++    isMultiSelect,
+     data /* array */,
+     onSelect /* function  */,
+     renderButton /* function returns React component for the dropdown button */,
+@@ -106,7 +107,9 @@ const SelectDropdown = (
+   };
+   const onSelectItem = (item, index) => {
+     const indexInOriginalArr = findIndexInArr(item, data);
+-    closeDropdown();
++    if (!isMultiSelect) {
++      closeDropdown();
++    }
+     onSelect && onSelect(item, indexInOriginalArr);
+     selectItem(indexInOriginalArr);
+   };

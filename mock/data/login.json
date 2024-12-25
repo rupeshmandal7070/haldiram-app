@@ -1,0 +1,97 @@
+{
+  "message": "Login successful",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMzMzU3NzQ5LCJpYXQiOjE3MzMzNTc0NDksImp0aSI6IjQxYTk5ZDAzNWUyYTQxZTliZmJjNjYwMWRiYTM0N2Q3IiwidXNlcl9pZCI6MX0.V6xEue-GSyDpwGB2408ni6uCZNiEQ68A2sAAPJrAqjI",
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczMzQ0Mzg0OSwiaWF0IjoxNzMzMzU3NDQ5LCJqdGkiOiI5MTkwOTc0NDg3OTQ0NmY1YWU4MDY1OTM5ZjIyZjRhZCIsInVzZXJfaWQiOjF9.W2fJ65_KGKifwp807W3D2EEFlc2E2hA1iN6jQO8rNGM",
+  "user_details": {
+    "id": 1,
+    "username": "9958698255",
+    "email": "121",
+    "first_name": "paras",
+    "last_name": "jindal",
+    "role": "L0"
+  },
+  "access_list": {
+    "user_access": []
+  },
+  "cities": [
+    {
+      "id": 1,
+      "name": "Noida",
+      "plants": [
+        {
+          "id": 1,
+          "name": "67",
+          "city": 1
+        },
+        {
+          "id": 2,
+          "name": "68 A-11",
+          "city": 1
+        },
+        {
+          "id": 3,
+          "name": "68 A-12",
+          "city": 1
+        },
+        {
+          "id": 4,
+          "name": "63 B-1",
+          "city": 1
+        },
+        {
+          "id": 5,
+          "name": "63 B-2",
+          "city": 1
+        }
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "id": 3,
+      "short_name": "A",
+      "duration": "06:00 - 14:00"
+    },
+    {
+      "id": 4,
+      "short_name": "B",
+      "duration": "14:00 - 22:00"
+    },
+    {
+      "id": 5,
+      "short_name": "C",
+      "duration": "22:00 - 06:00"
+    },
+    {
+      "id": 6,
+      "short_name": "G",
+      "duration": "09:30 - 18:30"
+    },
+    {
+      "id": 7,
+      "short_name": "F",
+      "duration": "07:00 - 16:00"
+    },
+    {
+      "id": 8,
+      "short_name": "H",
+      "duration": "08:00 - 17:00"
+    },
+    {
+      "id": 9,
+      "short_name": "I",
+      "duration": "07:00 - 19:00"
+    },
+    {
+      "id": 10,
+      "short_name": "J",
+      "duration": "08:00 - 20:00"
+    },
+    {
+      "id": 11,
+      "short_name": "K",
+      "duration": "09:00 - 21:00"
+    }
+  ],
+  "processes": ["RM/ PM", "IPQC Product", "IPQC Sensory", "Packaging"]
+}
