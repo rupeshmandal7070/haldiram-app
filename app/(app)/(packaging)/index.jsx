@@ -64,9 +64,27 @@ export default function Packaging() {
       });
   };
 
-  // console.log(error,'error')
-  // console.log(masterData.departmentList)
+  const [list,setList] = useState([]);
 
+ const getList = async() => {
+  // console.log('hello')
+  try {
+    
+    let result = await getDepartments()
+    if(result){
+      // console.log(result,'result')
+      setList(result);
+      return true
+    }
+  } catch (error) {
+    console.log(error,'error')
+  }
+ }
+
+console.log(list,'list')
+ useEffect(()=>{
+  getList();
+ },[])
 
   if (loading) {
     return (
@@ -145,7 +163,7 @@ export default function Packaging() {
             setValue={(value) => setDepartments(value)}
             // preSelected={departments}
             maxSelectedItems={3}
-            data={masterData?.departmentList}
+            data={list}
           />
         </View>
       </View>
@@ -160,7 +178,7 @@ export default function Packaging() {
         />
         <View style={{ flex: 1, marginLeft: 16 }}>
           <PrimaryButton
-            state={departments.length ? "Active" : "Disabled"}
+            state={departments?.length ? "Active" : "Disabled"}
             label="Start Log"
             onPress={async () => {
               try {
