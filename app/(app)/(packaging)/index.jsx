@@ -81,10 +81,10 @@ export default function Packaging() {
   }
  }
 
-console.log(list,'list')
  useEffect(()=>{
   getList();
- },[])
+ },[plantName])
+//  console.log(plantName,'name')
 
   if (loading) {
     return (
